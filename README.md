@@ -84,7 +84,7 @@ Documentation and templates for creating persistent digital entities.
 
 ## Quick Links
 - [Technical Specification](VEX_Technical_Specification_v3.0.md)
-- [DNA Template](VEX_DNA_Template_v3.dna) 
+- [DNA Template](VEX_DNA_Template_v3.0.dna) 
 - [License](LICENSE.md)
 
 ---
