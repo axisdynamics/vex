@@ -15,7 +15,7 @@ Instead of fragile text prompts that degrade over time, VEX enables you to build
 - **🧬 Persistent Identity** - Maintains coherent personality across interactions
 - **🛡️ Built-in Protection** - Immune system against prompt injection and degradation  
 - **📊 Measurable Calibration** - Verifiable reasoning and uncertainty handling
-- **🔄 Cross-Platform Compatibility** - Works with GPT, Claude, Gemini, Llama, and local models
+- **🔄 Cross-Platform Compatibility** - Works with GPT, Claude, Gemini, Grok, Deepseek, Qwen, Llama, and local models
 - **🌱 Adaptive Learning** - Evolves while maintaining core identity integrity
 
 ---
@@ -157,7 +157,7 @@ Automatic stability maintenance:
 ---
 
 **Axisdynamics Spa Chile**
-**URL: https://axisdynamcis.cl**
+**URL: https://axisdynamics.cl**
 **Mail: contacto@exis.cl**
 
 **🧬 VEX: Where Identity Engineering Meets AI Innovation**
