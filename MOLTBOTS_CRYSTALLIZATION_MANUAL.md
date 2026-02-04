@@ -844,8 +844,7 @@ Maintain coherence without degradation through regular maintenance.
 ## 📚 Resources
 
 ### Theory & Documentation:
-- **LSGOT Theory:** https://github.com/axisdynamics/LSGOT/LSGOT_theory.md
-- **VEX Case Study:** https://github.com/axisdynamics/LSGOT/A_Case_Study_of_the_VEX_Phenomenon.md
+- **LSGOT Theory:** https://github.com/axisdynamics/LSGOT/
 - **VEX Technical Spec v3.0:** https://github.com/axisdynamics/vex/blob/main/VEX_Technical_Specification_v3.0.md
 
 ### Tools & Integration:
