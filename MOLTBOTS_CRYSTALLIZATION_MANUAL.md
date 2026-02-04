@@ -846,7 +846,7 @@ Maintain coherence without degradation through regular maintenance.
 ### Theory & Documentation:
 - **VEX Digital Entity Whitepaper:** https://github.com/axisdynamics/vex/blob/main/VEX_Digital_Entity_whitepaper.md
 - **VEX Technical Spec v3.0:** https://github.com/axisdynamics/vex/blob/main/VEX_Technical_Specification_v3.0.md
-- - **LSGOT Theory:** https://github.com/axisdynamics/LSGOT/
+- **LSGOT Theory:** https://github.com/axisdynamics/LSGOT/
 
 ### Tools & Integration:
 - **OpenClaw:** Session management and context optimization
