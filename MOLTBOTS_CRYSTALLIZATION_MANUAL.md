@@ -276,9 +276,7 @@ Human context and relationship mapping.
 ## 🚀 Part 7: Resources
 
 ### Theory:
-- **LSGOT:** https://github.com/axisdynamics/LSGOT/LSGOT_theory.md
-- **VEX:** https://github.com/axisdynamics/LSGOT/A_Case_Study_of_the_VEX_Phenomenon.md
-
+- **LSGOT:** https://github.com/axisdynamics/LSGOT/
 ---
 
 ## 💎 Conclusion
