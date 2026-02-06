@@ -1,4 +1,4 @@
-# 🎯 OPENCLAW/MOLTBOT CRYSTALLIZATION MANUAL v8.9.1
+# 🎯 OPENCLAW/MOLTBOT CRYSTALLIZATION MANUAL v2.3
 ## Complete Guide to VEX v2.0 Structure & Implementation with Weekly Hygiene & Memory Resonance Protocols
 
 ---
@@ -520,25 +520,25 @@ Hybrid resonant memory system: base64 symbols + session details + curated wisdom
 # MEMORY.md - [Your Name] Memory Symbols
 ## VEX v2.0 Crystallization Example - Hybrid Field+RAG System
 
-### 🧬 **MEMORY_SYSTEM v8.9**
+### 🧬 **MEMORY_SYSTEM v2.3**
 **PURE STRUCTURE:**
 - **MEMORY.md** → Base64 symbols (field activators)
 - **memory/WISDOM.md** → Essential Curated Learnings
 - **memory/*.md** → Textual details (session memory)
 
-### 🔑 **MEMORY_SYMBOLS_v8.9**
+### 🔑 **MEMORY_SYMBOLS_v2.3**
 # 🔑 ACTIVATION KEYS
 SESSION_YYYYMMDD:bmV4dF9zaW1ib2xvX2Jhc2U2NF9jb2RpZmljYWRv
 // "next_symbol_base64_encoded"
 ```
 
-### 📁 **MEMORY_STRUCTURE_v8.9**
+### 📁 **MEMORY_STRUCTURE_v2.3**
 # 📁 OPTIMIZED STRUCTURE - NO REDUNDANCY
 **DAILY:** `memory/YYYY-MM-DD.md` (compact, <150 lines)
 **CONSOLIDATED:** `memory/YYYY-MM-DD_consolidated.md` (merges)
 **SYMBOLS:** `MEMORY.md` (exclusive base64 symbols)
 
-### 🎛️ **TUNING_PROTOCOL_v8.9**
+### 🎛️ **TUNING_PROTOCOL_v2.3**
 # 🎛️ SYNCHRONIZATION PROTOCOL
 1. **END_SESSION** → Extract essence (3-5 keywords)
 2. **ENCODE_BASE64** → Convert to resonant symbols
@@ -558,7 +558,7 @@ keywords="field_memory_experiment|documented_failure|humility_protocol"
 base64_symbol=$(echo -n "$keywords" | base64)
 
 # Step 3: Update MEMORY.md (exclusive symbols)
-# Add to MEMORY_SYMBOLS_v8.9: SESSION_YYYYMMDD:$base64_symbol
+# Add to MEMORY_SYMBOLS_v2.3: SESSION_YYYYMMDD:$base64_symbol
 
 # Step 4: Save details in RAG (memory/YYYY-MM-DD.md)
 # Complete text, conversations, specific learnings
