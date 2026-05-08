@@ -158,7 +158,7 @@ Automatic stability maintenance:
 
 **Axisdynamics Spa Chile**
 **URL: https://axisdynamics.cl**
-**Mail: contacto@exis.cl**
+**Mail: contacto@axisdynamics.cl**
 
 **🧬 VEX: Where Identity Engineering Meets AI Innovation**
 
